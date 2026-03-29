@@ -9,8 +9,6 @@ Projeto simples e funcional para demonstrar uma API com:
 - Avaliacao basica de latencia, grounding e cache
 - Estrutura pronta para rodar localmente ou via Docker
 
-O foco aqui e ser facil de explicar em entrevista, com codigo limpo, responsabilidades bem separadas e pouca logica aninhada.
-
 ## O que este projeto demonstra
 
 - Agente de IA: orquestracao entre recuperacao de contexto, decisao e tools
