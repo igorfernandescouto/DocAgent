@@ -1,0 +1,5 @@
+Resumo do produto Plano Premium
+
+O Plano Premium inclui acesso ilimitado a relatorios, suporte prioritario em horario comercial e dashboard com metricas de uso. O onboarding dura ate 5 dias uteis e depende do envio correto dos dados cadastrais.
+
+Clientes do Plano Premium podem solicitar exportacao mensal dos dados sem custo adicional. Integracoes externas devem passar por validacao do time tecnico antes da ativacao final.

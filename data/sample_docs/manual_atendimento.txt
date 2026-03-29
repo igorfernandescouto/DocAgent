@@ -1,0 +1,7 @@
+Manual rapido de atendimento
+
+Todo atendimento deve seguir tres passos: identificar a duvida do cliente, consultar a base documental e responder apenas com informacoes confirmadas. Se a informacao nao estiver nos documentos, o atendente deve informar que nao encontrou base suficiente e pedir mais detalhes.
+
+Casos criticos devem ser escalados quando houver risco juridico, suspeita de fraude, reclamacao recorrente ou pedido fora de politica. O prazo alvo de primeira resposta e de ate 2 horas em horario comercial.
+
+Quando um cliente demonstrar interesse comercial, o sistema deve registrar nome, email, telefone e observacoes em um arquivo estruturado para acompanhamento posterior.

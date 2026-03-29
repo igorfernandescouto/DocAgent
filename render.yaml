@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: docagent-api
+    env: docker
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
